@@ -1,0 +1,17 @@
+2017-09-15 16:28:48,933 INFO [root] - Starting...
+2017-09-15 16:28:48,935 INFO [root] - model initialization: success
+2017-09-15 16:28:49,229 INFO [root] - view initialization: success
+2017-09-15 16:28:49,236 INFO [root] - reading user file: success
+2017-09-15 16:28:49,236 INFO [root] - users set: successfull
+2017-09-15 16:28:49,612 INFO [root] - controller initialization: success
+2017-09-15 16:28:51,590 INFO [root] - current user: Cornelius
+2017-09-15 16:28:53,263 ERROR [root] - unable to browse directory
+2017-09-15 16:29:01,377 INFO [root] - current user: Cornelius
+2017-09-15 16:29:01,377 INFO [root] - new files added (1)
+2017-09-15 16:29:06,348 INFO [root] - event added: sfd
+2017-09-15 16:29:06,348 INFO [root] - destination created: /home/cornelius/Documents/projects/Kopy/../Bilder/2017/sfd/Cornelius
+2017-09-15 16:29:06,352 INFO [root] - file copied: Anleitung.png
+2017-09-15 16:29:06,352 INFO [root] - files copied: success
+2017-09-15 16:29:06,353 INFO [root] - description saved: success
+2017-09-15 16:29:07,422 INFO [root] - current user: Cornelius
+2017-09-15 16:29:07,422 INFO [root] - files list cleared: success
